@@ -4,6 +4,10 @@
   "description": "HTTPS proxy support interceptor of axios.",
   "main": "index.js",
   "browser": "browser.js",
+  "files": [
+    "index.js",
+    "browser.js"
+  ],
   "scripts": {
     "pretest": "npm run lint",
     "test": "npm run unit",
