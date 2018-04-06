@@ -5,6 +5,7 @@
 [![dependencies Status](https://david-dm.org/Gerhut/axios-https-proxy/status.svg)](https://david-dm.org/Gerhut/axios-https-proxy)
 [![devDependencies Status](https://david-dm.org/Gerhut/axios-https-proxy/dev-status.svg)](https://david-dm.org/Gerhut/axios-https-proxy?type=dev)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Gerhut/axios-https-proxy.svg)](https://greenkeeper.io/)
 
 HTTPS proxy support interceptor of axios.
 
