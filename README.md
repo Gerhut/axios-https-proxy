@@ -16,7 +16,7 @@ HTTPS proxy support interceptor of axios.
 ## Usage
 
 ```JavaScript
-const axios = requirE('axios')
+const axios = require('axios')
 const axiosHttpsProxy = require('axios-https-proxy')
 axios.interceptors.request.use(axiosHttpsProxy)
 ```
