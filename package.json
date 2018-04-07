@@ -1,6 +1,6 @@
 {
   "name": "axios-https-proxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTTPS proxy support interceptor of axios.",
   "main": "index.js",
   "browser": "browser.js",
